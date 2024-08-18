@@ -1,6 +1,6 @@
 ### Useful Repositories 🤔 and Associated Content 👀
 
-Please ⭐️ any repositories or feel free to contribute 🧑‍💻!
+Please ⭐️ any repositories or feel free to contribute 🧑‍💻
 
 ---
 
