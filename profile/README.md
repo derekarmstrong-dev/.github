@@ -1,6 +1,7 @@
-# DerekArmstrong.Dev
+# [DerekArmstrong.Dev](https://derekarmstrong.dev)
 
-Check out the associated blog at [DerekArmstrong.Dev](https://derekarmstrong.dev)
+### Useful repositories and associated content
 
-This space holds useful repositories and related content.
+Please star any repositories and contribute!
+
 
