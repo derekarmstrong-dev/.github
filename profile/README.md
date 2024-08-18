@@ -1,4 +1,4 @@
-### Useful Repositories 💡 and Associated Content 👀
+### 💡 Useful Repositories and Associated Content 👀
 
 Please ⭐️ any repositories or feel free to contribute 🧑‍💻
 
