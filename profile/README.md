@@ -6,6 +6,6 @@
 
 ## [DerekArmstrong.Dev](https://derekarmstrong.dev)
 
-![DerekArmstrong-Dev.png](DerekArmstrong-Dev.png)
+![DerekArmstrong-Dev.png](https://github.com/derekarmstrong-dev/.github/blob/main/profile/DerekArmstrong-Dev.png?raw=true)
 
 ---
